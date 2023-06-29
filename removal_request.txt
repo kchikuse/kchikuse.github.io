@@ -1,0 +1,7 @@
+Please remove from the Internet Archive
+
+URL/URL path to exclude: kchikuse.github.io (and all subdirectories)
+
+time period of account ownership: 2011-04-05 to current
+
+time period to exclude: 2011-04-05 to 2023-06-30
